@@ -10,6 +10,5 @@ public class Environtment {
 
     public static String isian;
     public static String hasil;
-
     public static String switchText;
 }

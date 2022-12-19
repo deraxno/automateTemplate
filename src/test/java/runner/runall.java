@@ -9,7 +9,7 @@ import io.cucumber.junit.Cucumber;
         features = "src/test/resources/features",
         glue = "stepAction",
         plugin = "html:target/All_report.html",
-        tags = "@negative"
+        tags = "@drag"
 )
 public class runall {
 
